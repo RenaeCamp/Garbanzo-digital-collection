@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-# About {{ site.title }}
+# About {{ Digital Legume Collection }}
 
 Digital collection site built via metadata and Jekyll.
 
