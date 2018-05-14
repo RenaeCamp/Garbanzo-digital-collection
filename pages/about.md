@@ -4,7 +4,8 @@ layout: page
 permalink: /about/
 ---
 
-# About {{ The Digital Legume Collection }}
+# About {{ Digital Legume Collection }}
+
 
 This surprisingly diverse digital collection site built via metadata and Jekyll.  It is a collaboration, a "legume medley" of objects from digital curation facilities on the Palouse.  The collection was created as part of the Palouse Digital Scholarship Symposium in 2018. 
 
