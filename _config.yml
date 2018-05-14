@@ -5,12 +5,12 @@
 # Site settings
 
 # title of site appears in banner
-title: GH-Pages Collection
+title: Digital Legume Collection
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: Peas, Lentils, and Garbanzos
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A more complete description that will appear in meta tags and on the index page as a teaser."
+description: "This collection was created as part of the Digital Scholarship Symposium."
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
@@ -21,11 +21,11 @@ email: ewilliamson@uidaho.edu
 collection-date: "2018"
 
 # url is your gh-pages base, username.github.io
-url: https://uidaholib.github.io
+url: https://renaecamp.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /pages-collection-template
+baseurl: /Garbanzo-digital-collection
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/pages-collection-template
+repository: https://github.com/RenaeCamp/Garbanzo-digital-collection
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
